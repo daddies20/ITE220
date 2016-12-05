@@ -1,0 +1,10 @@
+var customerName = "Mintra";
+var price = 10;
+var quantity = 2;
+var totalPrice = price * quantity;
+
+var customerElement = document.getElementById("customer-name");
+customerElement.textContent = customerName;
+
+var totalPrice = document.getElementById("price");
+customerElement.textContent = totalPrice;
