@@ -6,5 +6,5 @@ var totalPrice = price * quantity;
 var customerElement = document.getElementById("customer-name");
 customerElement.textContent = customerName;
 
-var totalPrice = document.getElementById("price");
+var customerElement = document.getElementById("price");
 customerElement.textContent = totalPrice;
